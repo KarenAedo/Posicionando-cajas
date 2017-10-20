@@ -1,0 +1,49 @@
+.caja_roja{
+	width: 500px;
+	height: 500px;
+	margin: 50px;
+	position: relative;
+	background: red;
+}
+
+.caja_morada{
+	width: 250px;
+	height: 250px;
+	position: absolute;
+	background: purple;
+	top: 120px ;
+	left: 120px;
+}
+.caja_amarilla{
+	width: 125px;
+	height: 125px;
+	position: absolute;
+	background: yellow;
+	top: 120px ;
+	left: 120px;
+}
+
+.caja_azul{
+	width: 500px;
+	height: 500px;
+	margin: 50px;
+	position: relative;
+	background: blue;	
+}
+.caja_verde{
+	width: 250px;
+	height: 250px;
+	position: absolute;
+	background: green;
+	top: 120px ;
+	left: 120px;
+}
+
+.caja_negra{
+	width: 120px;
+	height: 120px;
+	position: absolute;
+	background: black;
+	top: 0px ;
+	left: 0px;	
+}
